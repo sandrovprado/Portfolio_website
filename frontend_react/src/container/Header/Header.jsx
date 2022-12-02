@@ -34,8 +34,7 @@ const Header = () => {
                         </div>
                     </div>
                     <div className="tag-cmp app__flex">
-                            <a href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f3b7d181-aa0e-448f-9eb0-e9b7a23ef44e" target="_blank" rel="noopener noreferrer"><button className="resumeBtn">Resume</button></a>
-            
+                            <a href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8e11b067-6ff4-4702-b706-1d494796a018" target="_blank" rel="noopener noreferrer"><button className="resumeBtn">Resume</button></a>
                     </div>
                 </div>
 
